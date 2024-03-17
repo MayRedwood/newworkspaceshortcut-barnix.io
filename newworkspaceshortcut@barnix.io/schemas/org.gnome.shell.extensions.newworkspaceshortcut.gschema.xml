@@ -6,7 +6,7 @@
     path="/org/gnome/shell/extensions/newworkspaceshortcut/">
 
     <key type="as" name="movewinright">
-      <default><![CDATA[['<Super><Ctl><Shift>Right']]]></default>
+      <default><![CDATA[['<Super><Ctl><Shift>l']]]></default>
       <summary>New Workspace Shortcut Right</summary>
       <description>
         New Workspace Shortcut Right key binding
@@ -14,7 +14,7 @@
     </key>
 
     <key type="as" name="movewinleft">
-      <default><![CDATA[['<Super><Ctl><Shift>Left']]]></default>
+      <default><![CDATA[['<Super><Ctl><Shift>h']]]></default>
       <summary>New Workspace Shortcut Left</summary>
       <description>
         New Workspace Shortcut Left key binding
@@ -22,7 +22,7 @@
     </key>
 
     <key type="as" name="emptywsright">
-      <default><![CDATA[['<Ctl><Super><Alt>Right']]]></default>
+      <default><![CDATA[['<Ctl><Super><Alt>l']]]></default>
       <summary>Empty Workspace Shortcut Right</summary>
       <description>
         Empty Workspace Shortcut key binding
@@ -30,7 +30,7 @@
     </key>
 
     <key type="as" name="emptywsleft">
-      <default><![CDATA[['<Ctl><Super><Alt>Left']]]></default>
+      <default><![CDATA[['<Ctl><Super><Alt>h']]]></default>
       <summary>Empty Workspace Shortcut Left</summary>
       <description>
         Empty Workspace Shortcut key binding
@@ -38,7 +38,7 @@
     </key>
 
     <key type="as" name="wsright">
-      <default><![CDATA[['<Ctl><Super>Right']]]></default>
+      <default><![CDATA[['<Ctl><Super>l']]]></default>
       <summary>Move Workspace Right</summary>
       <description>
         Move Workspace Right Shortcut key binding
@@ -46,7 +46,7 @@
     </key>
 
     <key type="as" name="wsleft">
-      <default><![CDATA[['<Ctl><Super>Left']]]></default>
+      <default><![CDATA[['<Ctl><Super>h']]]></default>
       <summary>Move Workspace Left</summary>
       <description>
         Move Workspace Left Shortcut key binding
